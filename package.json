@@ -1,4 +1,7 @@
 {
   "name": "@lancejpollard/configured-quadratic-residue-prng.js",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "@lancejpollard/quadratic-residue-prng.js": "^1.0.0"
+  }
 }
